@@ -6,9 +6,7 @@
 
 <h3>What im doing now</h3>
 <p>
-  Im currently learning how to write C++! I have always avoided objects because the looked too "Hard" so now i have decideed
-  to tackle it and really get to grips with OOP. The project im doing for this is <a href="https://github.com/ex0Rift/freeRun">FreeRun</a>
-  you can check it out here!
+  Going to midnight with hackclub in january!
 </p>
  
  

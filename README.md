@@ -7,6 +7,8 @@
 <h3>What im doing now</h3>
 <p>
   Going to midnight with hackclub in january!
+
+  My nexy product: an RSS feed app? look at the repo for more!
 </p>
  
  

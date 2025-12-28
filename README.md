@@ -8,6 +8,8 @@
 <p>
   Going to midnight with hackclub in january!
 
+  My current product: A test environment for moaing bot oath finding!
+
   My nexy product: an RSS feed app? look at the repo for more!
 </p>
  

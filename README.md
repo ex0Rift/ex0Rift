@@ -7,6 +7,8 @@
 <h3>What im doing now</h3>
 <p>
   Trying to learn OpenGL (it is hard)
+
+  got any ideas for me? PLEASE bring them my way
 </p>
  
  

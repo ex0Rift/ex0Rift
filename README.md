@@ -33,5 +33,3 @@
 
 ### Currently working on hackatime:
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=22317&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=bear)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ex0rift&theme=dark" alt="ex0rift" /></p>

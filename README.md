@@ -23,6 +23,8 @@
 
 <h3>What im doing now</h3>
 <p>
+  trying to get to hackclib horizons!
+
   Trying to learn OpenGL (it is hard), check outbmy repo for the latest on that
 
   got any ideas for me? PLEASE bring them my way

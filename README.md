@@ -23,11 +23,9 @@
 
 <h3>What im doing now</h3>
 <p>
-  trying to get to hackclib horizons!
+  Coding for Hackclub hroizons...
 
-  Trying to learn OpenGL (it is hard), check outbmy repo for the latest on that
-
-  got any ideas for me? PLEASE bring them my way
+  WERE BACK BABY little tiny break but were back in the flow to code
 </p>
  
  
